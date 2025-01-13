@@ -17,7 +17,7 @@ This is a simple Stopwatch Web Application built using HTML, CSS, and JavaScript
 
 **Technologies Used:**
 
-**1.HTML:**** Structuring the stopwatch and buttons.
+**1.HTML:** Structuring the stopwatch and buttons.
 
 **2.CSS:** Styling the page, buttons, and layout. Includes smooth transition effects when buttons are pressed.
 
