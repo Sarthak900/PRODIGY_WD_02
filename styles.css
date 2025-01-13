@@ -44,44 +44,44 @@ button {
     margin: 10px;
 }
 
-/* Start button - Green */
+
 #startButton {
-    background-color: green;
+    background-color: #f59e42;
     color: white;
 }
 
 #startButton:active {
-    background-color: darkgreen; /* Darken when pressed */
+    background-color: #f59e42; 
 }
 
 /* Stop button - Red */
 #stopButton {
-    background-color: red;
+    background-color: #f59e42;
     color: white;
 }
 
 #stopButton:active {
-    background-color: darkred; /* Darken when pressed */
+    background-color: #f59e42; 
 }
 
 /* Reset button - Blue */
 #resetButton {
-    background-color: #007bff;
+    background-color: #f59e42;
     color: white;
 }
 
 #resetButton:active {
-    background-color: #0056b3; /* Darken when pressed */
+    background-color: #f59e42; 
 }
 
-/* Lap button - Orange */
+
 #lapButton {
     background-color: #f0ad4e;
     color: white;
 }
 
 #lapButton:active {
-    background-color: #ec971f; /* Darken when pressed */
+    background-color: #f0ad4e; 
 }
 
 /* Laps display */
