@@ -33,9 +33,7 @@ Click Reset to set the time back to 00:00:00.
 
 Click Lap to record a lap time while the stopwatch is running.
 
+![Screenshot 2025-01-13 183643](https://github.com/user-attachments/assets/e5fd9a87-c355-43cc-802e-058d258e5e98)
 
-
-
-![Screenshot 2025-01-10 144758](https://github.com/user-attachments/assets/e3db5db9-e8e5-4ae5-87b4-bb82e769a95a)
 
 
